@@ -1,6 +1,6 @@
 # Boot-Strap-Test
 
-##Goal:
+##Goal
 #### Our goal making this webpage was to impliment using bootstrap in our projects, {3/19/2020}_
 
 #### By _**{David Butler, Sean Vanleeuwen**_
